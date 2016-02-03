@@ -4,14 +4,17 @@
   {
    "name": "KS",
    "children": [
-	  {"name": "Knowledge Seeking", "size": 2850}, 
+	  {"name": "Knowledge Seeking", "size": 2050}, 
       {"name": "Can", "size": 50},
       {"name": "Do", "size": 60},
       {"name": "How", "size": 300},
       {"name": "Java", "size": 1070},
 	  {"name": "What", "size": 150},
 	  {"name": "Why", "size": 20},
-	  {"name": "Others", "size": 1160}
+	  {"name": "Parse", "size": 60},
+	  {"name": "in", "size": 50},
+	  {"name": "print", "size": 50},
+	  {"name": "Random Words", "size": 1160}
      ]
     },
   {
@@ -21,7 +24,9 @@
 		  {"name":"Array", "size":110},
 		  {"name":"How", "size":130},
 		  {"name":"Java", "size":200},
-		  {"name":"Others", "size":480}
+		  {"name": "mutate", "size": 30},
+		  {"name": "sort", "size": 40},
+		  {"name":"Random Words", "size":480}
 		  
 	  ]
   	
@@ -35,9 +40,9 @@
 	 {"name":"Call", "size":70},
 	 {"name":"Compute", "size":10},
 	 {"name":"How", "size":110},
-	 {"name":"Parse", "size":80},
+	 {"name":"String", "size":80},
 	  {"name":"What", "size":30},
-	   {"name":"Others", "size":650}
+	   {"name":"Random Words", "size":650}
 	 
 		
 	] 
